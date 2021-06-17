@@ -1,0 +1,56 @@
+.HeaderFont {
+  font-family: "Work Sans", sans-serif;
+  font-size: 70px;
+  font-weight: 700;
+  line-height: normal;
+  text-transform: capitalize;
+  position: relative;
+  z-index: 1;
+  display: inline-block;
+}
+.SideHeader {
+  font-family: "Work Sans", sans-serif;
+  font-size: 40px;
+  font-weight: 700;
+  line-height: normal;
+  text-transform: capitalize;
+  position: relative;
+  z-index: 1;
+  display: inline-block;
+}
+
+.TextFont {
+  line-height: 24px;
+  margin-bottom: 10px;
+  font-weight: 600;
+  width: 50%;
+  text-transform: uppercase;
+  letter-spacing: 7px;
+  font-size: 14px;
+  color: #989898;
+  font-family: "Open Sans", sans-serif;
+}
+.Textarea {
+  width: 60%;
+  margin: 0 auto;
+  font-weight: 400;
+  font-size: 16px;
+  font-family: "Open Sans", sans-serif;
+  text-align: center;
+  color: #989898;
+}
+.FooterText {
+  font-weight: 400;
+  font-size: 14px;
+  font-family: "Open Sans", sans-serif;
+  line-height: 24px;
+  text-align: center;
+  margin: unset;
+  padding: 20px 0;
+}
+
+@media (max-width: 600px) {
+  .HeaderFont {
+    font-size: 30px;
+  }
+}

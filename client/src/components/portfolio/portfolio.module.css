@@ -1,0 +1,19 @@
+.ImgContainer {
+  overflow: hidden;
+  height: 33vw;
+}
+.ImgPortfolio {
+  height: 40vw;
+  width: 100%;
+}
+
+.Btn {
+  margin: 3px !important;
+}
+.BtnDiv {
+  text-align: center;
+}
+.Container {
+  text-align: center;
+  margin: auto;
+}

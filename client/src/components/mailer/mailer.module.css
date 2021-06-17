@@ -1,0 +1,21 @@
+.MailerForm {
+  margin: 7vw 32vw 400px;
+  padding: 30px 50px 10px;
+  box-shadow: 0 1px 41px rgb(0 0 0 / 10%);
+}
+.MailerButton {
+  margin: auto;
+  display: block !important;
+  padding: 10px 3vw !important;
+  border-radius: 50px !important;
+}
+
+@media (max-width: 800px) {
+  .MailerForm {
+    margin: 30vw 10vw 400px;
+  }
+}
+
+.Modal {
+  text-align: center;
+}

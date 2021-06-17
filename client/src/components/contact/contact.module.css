@@ -1,0 +1,21 @@
+.ContactContainer {
+  padding: 30px 20px;
+}
+
+.PdnBottom {
+  padding-bottom: 2vw;
+}
+.PdnLeft {
+  padding-left: 10vw !important;
+}
+
+.ContactDiv {
+  display: inline-block;
+  margin-left: 20px;
+}
+.FaDiv {
+  position: relative;
+  display: inline;
+  vertical-align: unset !important;
+  float: left;
+}

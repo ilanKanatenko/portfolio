@@ -1,0 +1,32 @@
+.Container {
+  background-color: #f3f8fc;
+}
+#ContainerOverride {
+  padding: 200px;
+}
+
+.TopPortrait {
+  position: absolute;
+  right: 20px;
+  top: 330px;
+  width: 40rem;
+}
+.M_b {
+  margin-bottom: 10px;
+}
+
+@media (max-width: 1050px) {
+  .TopPortrait {
+    display: none;
+  }
+}
+
+@media (max-width: 600px) {
+  #ContainerOverride {
+    padding: 50px;
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    text-align: center;
+  }
+}
