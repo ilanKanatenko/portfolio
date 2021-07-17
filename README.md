@@ -13,4 +13,4 @@ to run the client and server you can do npm run dev becouse of the concurrently 
 
 ## project url
 
-project was uploaded to heroku and can be found accessed here  https://ilan-portfolio.herokuapp.com/projects
+project was uploaded to heroku and can be accessed here  https://ilan-portfolio.herokuapp.com/projects
